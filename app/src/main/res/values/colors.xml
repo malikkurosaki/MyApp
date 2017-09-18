@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorToolbar">#10c2bf</color>
+    <color name="colorHijau">#1b7e05</color>
+    <color name="colorTransparant">#00f5f5f5</color>
+    <color name="colorOrange">#f7920d</color>
+    <color name="colorBiru">#abc9f2</color>
+    <color name="colorAbu">#909091</color>
+</resources>
